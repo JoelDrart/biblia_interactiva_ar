@@ -12,7 +12,7 @@ Ofrecer una experiencia interactiva e inclusiva que permita a los niños explora
 
 ## 🛠️ Tecnologías utilizadas
 
-- [Unity 2022.x](https://unity.com/)
+- [2022.3.61f1](https://unity.com/es/releases/editor/whats-new/2022.3.61#notes)
 - AR Foundation
 - Blender (para modelos 3D)
 - Audacity (para narraciones)
@@ -38,8 +38,6 @@ Aquí encontrarás únicamente:
 🔗 Repositorio completo del proyecto en Unity Version Control:
 
 **👉 [Click aquí para acceder al repositorio Unity](https://link-al-repo-unity.com)**  
-> *(Sustituir con el enlace real de Plastic SCM o Unity DevOps cuando esté disponible)*
-
 ---
 
 ## 👥 Público objetivo
@@ -64,6 +62,7 @@ Aquí encontrarás únicamente:
 
 Desarrollado por **Erick Joel Malán Chacaguasay**  
 Carrera de Ingeniería en Software – ESPOCH  
+Código: 7264
 Año: 2025
 
 ---
