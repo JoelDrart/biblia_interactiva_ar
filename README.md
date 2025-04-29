@@ -12,12 +12,12 @@ Ofrecer una experiencia interactiva e inclusiva que permita a los niños explora
 
 ## 🛠️ Tecnologías utilizadas
 
-- [2022.3.61f1](https://unity.com/es/releases/editor/whats-new/2022.3.61#notes)
-- AR Foundation
-- Blender (para modelos 3D)
-- Audacity (para narraciones)
-- Android SDK (target: Android 9+)
-- Unity Version Control (repositorio principal)
+-   [Unity 2022.3.61f1](https://unity.com/es/releases/editor/whats-new/2022.3.61#notes)
+-   AR Foundation
+-   Blender (para modelos 3D)
+-   Audacity (para narraciones)
+-   Android SDK (target: Android 9+)
+-   Unity Version Control (repositorio principal)
 
 ---
 
@@ -26,10 +26,10 @@ Ofrecer una experiencia interactiva e inclusiva que permita a los niños explora
 Este repositorio **no contiene el código fuente completo**, ya que el desarrollo y control de versiones se lleva a cabo mediante **Unity Version Control**.  
 Aquí encontrarás únicamente:
 
-- Documentación general del proyecto.
-- Historias de usuario y técnicas.
-- Pila del producto (product backlog).
-- Recursos de presentación y planificación.
+-   Documentación general del proyecto.
+-   Historias de usuario y técnicas.
+-   Pila del producto (product backlog).
+<!-- - Recursos de presentación y planificación. -->
 
 ---
 
@@ -37,24 +37,23 @@ Aquí encontrarás únicamente:
 
 🔗 Repositorio completo del proyecto en Unity Version Control:
 
-**👉 [Click aquí para acceder al repositorio Unity](https://link-al-repo-unity.com)**  
----
+## **👉 [Click aquí para acceder al repositorio Unity](https://cloud.unity.com/home/organizations/4673437551921/projects/0d5713ad-6f94-4bcb-9afa-64f5e50b92b8/plastic-scm/organizations/4673437551921/repositories/biblia_interactiva_ar%2Fbiblia_interactiva_ar)**
 
 ## 👥 Público objetivo
 
-- Niños entre 6 y 12 años.
-- Maestros de Escuela Dominical como facilitadores.
+-   Niños entre 6 y 12 años.
+-   Maestros de Escuela Dominical como facilitadores.
 
 ---
 
 ## 📱 Características clave
 
-- ✅ Visualización de historias bíblicas con realidad aumentada (AR).
-- ✅ Narraciones interactivas y activación de personajes por toques.
-- ✅ Menú visual de historias ilustradas.
-- ✅ Activación de escenas mediante marcadores físicos impresos.
-- ✅ Navegación simple e intuitiva adaptada a niños.
-- ✅ No requiere conexión a internet ni autenticación.
+-   ✅ Visualización de historias bíblicas con realidad aumentada (AR).
+-   ✅ Narraciones interactivas y activación de personajes por toques.
+-   ✅ Menú visual de historias ilustradas.
+-   ✅ Activación de escenas mediante marcadores físicos impresos.
+-   ✅ Navegación simple e intuitiva adaptada a niños.
+-   ✅ No requiere conexión a internet ni autenticación.
 
 ---
 
@@ -71,4 +70,3 @@ Año: 2025
 
 Uso educativo no comercial.  
 Las imágenes, audios y modelos utilizados cumplen con licencias libres o de dominio público.
-
